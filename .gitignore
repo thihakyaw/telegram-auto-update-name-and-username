@@ -1,0 +1,4 @@
+node_modules
+.env
+_td_database
+_td_files

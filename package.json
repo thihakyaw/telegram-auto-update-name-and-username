@@ -1,0 +1,19 @@
+{
+  "name": "telegram_auto_update_name_and_username",
+  "version": "1.0.0",
+  "description": "Hash telegram name username",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiha Kyaw",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "prebuilt-tdlib": "^0.1008000.0",
+    "randomstring": "^1.2.3",
+    "tdl": "^7.2.0",
+    "tdl-tdlib-addon": "^1.2.1"
+  }
+}
