@@ -37,3 +37,4 @@ For the first time running the project, you will have to login Telegram. The cli
 ## Upcoming features (Contributions are very welcome)
 
 - Sending your very special friends a message about you have changed the name and username.
+- Only letting username update option (I want to sleep now. So this is the story for another day)
